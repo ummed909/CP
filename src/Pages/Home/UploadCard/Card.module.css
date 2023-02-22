@@ -1,0 +1,29 @@
+.card{
+    background-color: rgba(114, 114, 114, 0.192);
+    width: 50%;
+    height: 200px;
+    margin-left: 25%;
+    margin-top: 200px;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.b1{
+    width: 30%;
+    height: 40px;
+    color: white;
+    background-color: green;
+    border-radius: 1000px;
+    margin-left:35% ;
+    margin-top: 40px;
+    border: 0px;
+    font-size: 20px;
+}
+
+.content{
+    width: 60%;
+    font-size: 50px;
+    margin-left: 27%;
+    margin-top: 30px;
+    color: rgba(255, 255, 255, 0.315);
+}
