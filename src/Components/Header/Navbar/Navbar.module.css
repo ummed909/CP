@@ -6,7 +6,6 @@
   margin-bottom: 0px;
   width: 50%;
   padding-left: 7%;
-  /* background-color: aqua; */
 }
 
 .list {
@@ -25,7 +24,7 @@
   border: 0px solid black;
   margin-right: 60px;
   text-decoration: none;
-  padding-top: 50px;
+  margin-top: 30px;
 }
 
 
@@ -33,16 +32,14 @@
 
 
 .active{
-  text-decoration: none;
-  color:rgb(21, 255, 52);
+  text-decoration: underline;
+  color:rgb(21, 255, 255);
+  color: rgb(33, 31, 31);
 }
 .dea{
   text-decoration: none;
-  color: white;
+  color: rgb(2, 7, 45);
 }
 .dea:hover{
-  color:rgb(39, 226, 255);
-}
-.active:hover{
-  color: aqua;
+  color: rgb(44, 12, 12);
 }

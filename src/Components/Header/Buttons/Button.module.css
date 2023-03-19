@@ -3,7 +3,7 @@
 .buttons{
     width: 300px;
     margin-left: 8%;
-    padding-top: 45px;
+    margin-top: 30px;
 }
 
 .button1{
@@ -12,7 +12,7 @@
     width: 110px;
     margin-right: 30px;
     color: white;
-    background-color: rgba(46, 118, 22, 0.659);
+    background-color: rgb(94, 41, 94);
     font-size: 20px;
     border: 0px;
     border-radius: 4000px;
@@ -23,14 +23,14 @@
     width: 100px;
     margin-right: 40px;
     color: white;
-    background-color: rgba(22, 118, 24, 0.662);
+    background-color: rgb(94, 41, 94);
     font-size: 20px;
     border: 0px;
     border-radius: 4000px; 
 }
 .button1:hover{
-    background-color: rgba(0, 255, 255, 0.492);
+    background-color: rgba(13, 60, 60, 0.962);
 }
 .button2:hover{
-    background-color: rgba(0, 255, 255, 0.492);
+    background-color: rgba(13, 60, 60, 0.958);
 }

@@ -1,0 +1,26 @@
+.footer{
+    background-color: rgb(16, 1, 19); 
+    padding-bottom: 40px;
+}
+.line1{
+    color: rgba(255, 255, 255, 0.5);
+    width: 84%;
+    margin-left: 9%;
+    font-size: 18px;
+}
+.line2{
+    color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(0, 255, 255, 0);
+    margin-left: 20%;
+    background-color: rgba(18, 106, 77, 0);
+    width: 60%;
+     font-size: 18px;
+    
+}
+.line3{
+    color: rgba(255, 255, 255, 0.508);
+    background-color: rgba(127, 255, 212, 0);
+    width: 35%;
+    margin-left:30%;
+    font-size: 18px;
+}

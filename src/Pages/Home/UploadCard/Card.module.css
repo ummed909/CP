@@ -1,29 +1,46 @@
 .card{
-    background-color: rgba(114, 114, 114, 0.192);
+    background-color: rgb(171, 68, 255);
     width: 50%;
-    height: 200px;
+    height: 270px;
     margin-left: 25%;
     margin-top: 200px;
     border-radius: 15px;
-    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    box-shadow: rgb(255, 255, 255) 0px 5px 15px;
+    margin-bottom: 300px;
 }
 
 .b1{
     width: 30%;
-    height: 40px;
-    color: white;
-    background-color: green;
-    border-radius: 1000px;
-    margin-left:35% ;
-    margin-top: 40px;
-    border: 0px;
+    margin-left: 35%;
+    text-align: center;
+    justify-content: center;
+    padding-top: 30px;
+    color: rgb(255, 255, 255);
     font-size: 20px;
 }
 
+
+
 .content{
-    width: 60%;
-    font-size: 50px;
-    margin-left: 27%;
+    width: 100%;
+    text-align: center;
+    font-size: 70px;
     margin-top: 30px;
-    color: rgba(255, 255, 255, 0.315);
+    font-weight: 700;
+    color: rgb(82, 80, 80);
+}
+.button{
+    width: 20%;
+    margin-left: 40%;
+    background-color: rgb(255, 170, 0);
+    height: 35px;
+    border-radius: 1000px;
+    border: 0px;
+    color: white;
+    margin-top: 30px;
+    font-size: 16px;
+}
+.box{
+    background-color: aqua;
+    width: 100px;
 }

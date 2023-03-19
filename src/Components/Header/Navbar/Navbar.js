@@ -17,7 +17,7 @@ function Navbar() {
         </li>
         <li>
           <NavLink
-            to="/home"
+            to="/about"
             className={({ isActive }) =>
               isActive ? classes.active : classes.dea
             }
@@ -27,7 +27,7 @@ function Navbar() {
         </li>
         <li>
           <NavLink
-            to="/home"
+            to="/files"
             className={({ isActive }) =>
               isActive ? classes.active : classes.dea
             }
@@ -37,7 +37,7 @@ function Navbar() {
         </li>
         <li>
           <NavLink
-            to="/home"
+            to="/contact"
             className={({ isActive }) =>
               isActive ? classes.active : classes.dea
             }

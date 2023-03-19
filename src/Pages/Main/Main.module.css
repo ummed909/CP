@@ -22,14 +22,28 @@
 .content {
   position: absolute;
   width: 100%;
-  height: 100%;
+  height: 100%; 
   top: 0%;
+}
+.container{
+  display: flex;
+  justify-content: space-between;
+  padding-left: 100px;
+  padding-right: 20px;
+}
+.container2{
+  width: 100px;
+  height: 100px;
+}
+.img{
+  width: 150px;
+  height: 150px;
 }
 .glass {
   /* background-color: rgba(0, 255, 255, 0.133); */
   width: 45%;
   margin-left: 27.5%;
-  margin-top: 250px;
+  margin-top: 150px;
   height: 170px;
   border-radius: 10px;
   padding-top: 25px;
@@ -61,6 +75,22 @@
   font-size: 50px;
   font-family: "Ubuntu Mono", monospace;
 }
+.line3{
+  color: white;
+  font-size: 23px;
+  width: 100%;
+  text-align: center;
+  margin-top: 60px;
+  font-family: "Ubuntu Mono", monospace;
+
+}
+.line4{
+  color: white;
+  font-size: 23px;
+  width: 40%;
+  margin-top: 10%;
+  padding-left: 70px;  
+}
 
 .info{
   color: white;
@@ -72,9 +102,4 @@
 
 }
 
-.buttons{
-  position: absolute;
-  display: flex;
-  right: 0%;
-}
 
